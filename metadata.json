@@ -1,0 +1,7 @@
+{
+  "name": "DeutschMaster",
+  "description": "A sophisticated German language learning application featuring AI-powered word generation, flashcards, and high-quality text-to-speech for pronunciation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
